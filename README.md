@@ -1,14 +1,5 @@
 # Project 3: Delhi Air Quality & Pollution Trends
 
-# Course: Data Mining (Semester 5, 2025)
-Team Name: DataFlix
-Members:
-- Manu Vahan 
-- Sahil Sarawgi
-- Mentor: Sanchit Aggarwal
-
----
-
 # 🔍 Problem Statement
 Delhi consistently ranks among the world’s most polluted cities. Using the "Delhi Air Quality Dataset" (Kaggle), we analyze how air quality varies over time, across seasons, and among pollutants. We also study the impact of policy interventions (odd–even rule, lockdowns, stubble burning) on pollution trends.
 
